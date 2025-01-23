@@ -36,25 +36,25 @@ I love working with cloud tech and automating things. I'm big on Open Source - b
 
 <picture>
   <source
-    srcset="https://stats.k6s.io/api?username=kutovoys&show_icons=true&theme=tokyonight"
+    srcset="https://stats.k6s.io/api?username=kutovoys&show_icons=true&card_width=350&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://stats.k6s.io/api?username=kutovoys&show_icons=true"
+    srcset="https://stats.k6s.io/api?username=kutovoys&show_icons=true&card_width=350"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://stats.k6s.io/api?username=kutovoys&show_icons=true" />
+  <img src="https://stats.k6s.io/api?username=kutovoys&show_icons=true&card_width=350" />
 </picture>
 <picture>
   <source
-    srcset="https://streak.k6s.io?user=kutovoys&theme=tokyonight"
+    srcset="https://streak.k6s.io?user=kutovoys&card_width=350&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak.k6s.io?user=kutovoys"
+    srcset="https://streak.k6s.io?user=kutovoys&card_width=350"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak.k6s.io?user=kutovoys&theme=tokyonight" />
+  <img src="https://streak.k6s.io?user=kutovoys&card_width=350&theme=tokyonight" />
 </picture>
 
 <picture>
