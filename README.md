@@ -57,18 +57,6 @@ I love working with cloud tech and automating things. I'm big on Open Source - b
   <img src="https://streak.k6s.io?user=kutovoys&card_width=350&theme=tokyonight" />
 </picture>
 
-<picture>
-  <source
-    srcset="https://stats.k6s.io/api/top-langs/?username=kutovoys&layout=compact&exclude_repo=github-stats,github-readme-streak-stats,xray-core&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://stats.k6s.io/api/top-langs/?username=kutovoys&layout=compact&exclude_repo=github-stats,github-readme-streak-stats,xray-core"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://stats.k6s.io/api/top-langs/?username=kutovoys&layout=compact&exclude_repo=github-stats,github-readme-streak-stats,xray-core" />
-</picture>
-
 ### 📫 Connect With Me
 
 [![sergey@kutovoy.dev](https://img.shields.io/badge/sergey@kutovoy.dev%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sergey@kutovoy.dev)
