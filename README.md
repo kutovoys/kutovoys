@@ -66,7 +66,7 @@ I love working with cloud tech and automating things. I'm big on Open Source - b
     srcset="https://stats.k6s.io/api/top-langs/?username=kutovoys&layout=compact&exclude_repo=github-stats,github-readme-streak-stats,xray-core"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://stats.k6s.io/api/top-langs/?username=kutovoys&layout=compact&exclude_repo=github-stats,github-readme-streak-stats,xray-core&theme=tokyonight" />
+  <img src="https://stats.k6s.io/api/top-langs/?username=kutovoys&layout=compact&exclude_repo=github-stats,github-readme-streak-stats,xray-core" />
 </picture>
 
 ### 📫 Connect With Me
