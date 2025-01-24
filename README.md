@@ -59,6 +59,6 @@ I love working with cloud tech and automating things. I'm big on Open Source - b
 
 ### 📫 Connect With Me
 
-[![sergey@kutovoy.dev](https://img.shields.io/badge/sergey@kutovoy.dev%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sergey@kutovoy.dev)
+[![sergey@kutovoy.dev](https://img.shields.io/badge/sergey@kutovoy.dev%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergey@kutovoy.dev)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kutovoys)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kutovoys/)
